@@ -12,6 +12,6 @@ int main()
     h = d+f;
     i = e+f;
     j = d==i || e == h || f==g;
-    printf("this is a right anle triangle if it shows 1 and not if shows 0:%d\n",j);
+    printf("this is a right angle triangle if it shows 1 and not if shows 0:%d\n",j);
     return 0;
 }
